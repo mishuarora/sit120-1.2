@@ -1,0 +1,13 @@
+/* unique-styles.css */
+table {
+    border-collapse: collapse;
+    width: 60%; /* Adjusted width for a unique look */
+    background-color: #f2f2f2; /* Added a background color */
+    margin: 0 auto; /* Center the table on the page */
+}
+th, td {
+    border: 2px dashed #555; /* Changed border style and color */
+    padding: 10px; /* Adjusted padding */
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Changed font-family for a unique style */
+}
